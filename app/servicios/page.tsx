@@ -4,9 +4,9 @@ import { servicios } from "../data/serviciosData";
 
 export default function Servicios() {
   return (
-    <main className="max-w-6xl mx-auto px-6 py-10">
-
-      <Navbar />
+    <main className="bg-white text-gray-800">
+          
+          <Navbar />
 
       <h1 className="text-3xl font-bold mb-10">
         Servicios

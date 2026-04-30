@@ -24,7 +24,7 @@ const slug = resolvedParams.servicio;
   const Icon = servicioData.icon;
 
   return (
-    <main className="max-w-5xl mx-auto py-10 px-6">
+    <main className="bg-white text-gray-800">
       <Navbar />
     {/* ENCABEZADO CON EL TITULO */}
         <Icon className="text-5xl text-slate-800 mb-6" />
